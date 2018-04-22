@@ -1,0 +1,6 @@
+C:\Users\leerstad\OneDrive\source\repos\Oefening_6.6.2\Oefening_6.6.2\bin\Debug\Oefening_6.6.2.exe.config
+C:\Users\leerstad\OneDrive\source\repos\Oefening_6.6.2\Oefening_6.6.2\bin\Debug\Oefening_6.6.2.exe
+C:\Users\leerstad\OneDrive\source\repos\Oefening_6.6.2\Oefening_6.6.2\bin\Debug\Oefening_6.6.2.pdb
+C:\Users\leerstad\OneDrive\source\repos\Oefening_6.6.2\Oefening_6.6.2\obj\Debug\Oefening_6.6.2.csproj.CoreCompileInputs.cache
+C:\Users\leerstad\OneDrive\source\repos\Oefening_6.6.2\Oefening_6.6.2\obj\Debug\Oefening_6.6.2.exe
+C:\Users\leerstad\OneDrive\source\repos\Oefening_6.6.2\Oefening_6.6.2\obj\Debug\Oefening_6.6.2.pdb
