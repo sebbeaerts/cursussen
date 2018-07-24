@@ -26,7 +26,7 @@
 >In deze cursus bespreken we de functies die nu in een IT-afdeling voorkomen (zoals junior en senior programmeur, projectleider, enz.). Aan de hand van functieomschrijvingen bieden we je een beeld van hoe een IT-organisatie in de praktijk werkt en hoe je daarin kan functioneren. Je krijgt een kennismaking met de hedendaagse technologieën zoals ITIL, BISML en ASL.
 
 >We bekijken hoe je software- en netwerkprojecten kan ontwerpen/begeleiden op basis van methedologieën (zoals Prince2, PMBOK, SCRUM,...), hoe je een business continuity plan opstelt en hoe je via servicecontracten je omgeving "veilig" kan stellen.
-- [ ] Programmeren 2
+- [x] Programmeren 2
 >In deze vervolgmodule wordt de focus gelegd op het verband tussen embedded elektronica en het Internet, de zogenaamde wereld van The Internet of Things (IoT).
 
 >Met behulp van een Arduino maak je stap voor stap een microcontrollertoepassing dat je kan besturen vanaf je PC. Je leert processen automatiseren en je ontwerpt allerhande domotica-, robotica- en andere kleine volwaardige automatisatieprojecten.
